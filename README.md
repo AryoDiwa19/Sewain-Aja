@@ -52,11 +52,17 @@ dengan benar.
 
 Adapun beberapa tahapan yang akan dilakukan selama proses pengerjaan website yang
 akan berlangsung selama 6 minggu, tahap tersebut antara lain :
+
 ❖ Minggu ke-1 Pengumpulan kebutuhan dan membuat desain aplikasi web
+
 ❖ Minggu ke-2 Evaluasi desain dan Development
+
 ❖ Minggu ke-3 Tahap Development
+
 ❖ Minggu ke-4 Tahap Development
+
 ❖ Minggu ke-5 Testing dan Evaluasi Sistem
+
 ❖ Minggu ke-6 Deploy Sistem
 
 
