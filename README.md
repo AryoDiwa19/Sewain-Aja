@@ -75,20 +75,30 @@ esdk&ouid=105340511098225101986&rtpof=true&sd=true
 # Project Resources:
 
 Sumber daya yang diperlukan dalam pengerjaan proyek antara lain:
+
 ❖ Bahasa pemrograman yang akan digunakan yaitu HTML, CSS, dan Javascript.
+
 ❖ Tools yang digunakan seperti VSCode, Github, Postman, dan API
+
 ❖ Memanfaatkan pengolahan Database (dataset).
+
 ❖ Menggunakan Framework Bootstrap untuk mendukung pembuatan tampilan website.
+
 ❖ Menggunakan Framework JS untuk mempermudah pembuatan fitur-fitur di website
 tersebut.
+
 ❖ Menggunakan layanan cloud backend untuk mendukung keamanan dan penyimpanan data
 dalam pembuatan website tersebut
-dalam pembuatan website tersebut.
+
 ❖ Mencari beberapa resources lain dari paper/journals/articles/link/pdf dan lain-lain untuk
 referensi yang menjadi dasar pembuatan website tersebut :
+
   ● https://www.cnnindonesia.com/teknologi/20200401075230-384-488954/bisnis-rental-mobil-terpukul-corona-dan-pp-larangan-mudik
+  
   ● https://www.cnnindonesia.com/teknologi/20200629192403-384-518775/bisnis-rental-mobil-ri-yang-mulai-bangkit-di-tengah-pandemi
+  
   ● https://www.carmudi.co.id/journal/mobil-jarang-dipakai-beberapa-efek-buruk-ini-bisa-mengintai/
+  
   ● https://otomotif.kompas.com/read/2020/01/27/134200915/mobil-yang-jarang-dipakai-siap-siap-terserang-penyakit-ini?page=all
 
 
@@ -97,9 +107,11 @@ referensi yang menjadi dasar pembuatan website tersebut :
 ● Kami tidak tahu apakah web ini disertai back end atau tidak. Karena web ini
 mengharuskan pengguna mengupload STNK atau SIM. Sebagai opsi lain, mungkin kami
 akan membuat fitur checklist kelengkapan surat-surat secara mandiri oleh pengguna.
+
 ● Karena di masa pandemi mengharuskan kita untuk mengadakan online meeting di setiap
 pertemuan. Kita juga agak kesulitan menentukan waktu meeting karena perbedaan
 waktu. Solusinya kita menyepakati waktu meeting di setiap pertemuan.
+
 ● Semua anggota kami belum menyelesaikan seluruh kelas, sehingga kami harus
 mengerjakan capstone dan progress kelas sekaligus. Oleh karena itu kami harus bisa
 mengatur waktu dengan baik dan saling membantu satu sama lain.
