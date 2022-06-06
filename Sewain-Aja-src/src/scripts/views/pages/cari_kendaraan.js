@@ -1,6 +1,7 @@
+/* eslint-disable no-tabs */
 const CariKendaraan = {
-    async render() {
-      return `
+  async render() {
+    return `
       <div class="container pt-3 pb-5">
 				<ol class="alur-pesan">
 					<li class="onPage">1. Pilih Kendaraan  >  </li>
@@ -109,11 +110,11 @@ const CariKendaraan = {
 				</div>
 			</div>
       `;
-    },
-   
-    async afterRender() {
-    
-    },
-  };
-   
-  export default CariKendaraan;
+  },
+
+  // async afterRender() {
+
+  // },
+};
+
+export default CariKendaraan;
