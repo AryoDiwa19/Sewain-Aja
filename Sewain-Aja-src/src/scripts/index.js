@@ -1,7 +1,7 @@
 import 'regenerator-runtime';
 import '../styles/style.css';
 import App from './views/app';
- 
+
 const app = new App({
   button: document.querySelector('.navbar-toggler'),
   drawer: document.querySelector('#navbarSupportedContent'),
@@ -12,7 +12,7 @@ const app = new App({
 window.addEventListener('hashchange', () => {
   app.renderPage();
 });
- 
+
 window.addEventListener('load', () => {
   app.renderPage();
 });
