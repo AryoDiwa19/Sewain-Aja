@@ -45,7 +45,7 @@ const CariKendaraan = {
 				</div>
 
 				<div class="d-flex justify-content-between">
-					<div class="card filter p-2">
+					<div class="card filter p-3">
 						<h3><i class="material-icons">filter_list</i> Filter</h3>
 						<form>
 							<div class="form-group">
@@ -101,7 +101,7 @@ const CariKendaraan = {
 										<p>Alamat : Jakarta Selatan</p>
 										<p><span class="harga-sewa">Rp 350.000,-</span> / hari</p>
 										<p>Dalam kota</p>
-										<a href="#/cari_kendaraan/konfirmasi_order" class="lanjutkan">Lanjutkan</a>
+										<a href="#/cari_kendaraan/#/bayar" class="lanjutkan">Lanjutkan</a>
 									</div>
 								</div>
 							</div>
