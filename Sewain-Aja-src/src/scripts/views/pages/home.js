@@ -13,11 +13,11 @@ const Home = {
           </h1>
           <p class="pt-4" style="width:70%">SewainAja membantu mempertemukan pemilik kendaraan yang ingin menyewakan kendaraannya dengan orang yang sedang mencari kendaraan sewa.</p>
           <a href="#/daftar">
-            <button class="btn btn-daftar mt-5">Daftar Sekarang</button>
+            <button class="btn btn-custom mt-5">Daftar Sekarang</button>
           </a>
         </div>
         <div class="hero-image">
-          <img src="../../src/public/hero_image.png" alt="">
+          <img src="hero_image.png" alt="">
         </div>
       </div>
     </div>
@@ -27,7 +27,7 @@ const Home = {
       <div class="container d-flex justify-content-around">
         <div class="why-item text-center">
           <div class="why-image">
-            <img src="../../src/public/why_image_1.png" alt="">
+            <img src="why_image_1.png" alt="">
           </div>
           <div class="why-content mx-auto" style="width: 80%;">
             <h2>Service Berkualitas Dari Partner Terpercaya</h2>
@@ -36,7 +36,7 @@ const Home = {
         </div>
         <div class="why-item text-center">
           <div class="why-image">
-            <img src="../../src/public/why_image_2.png" alt="">
+            <img src="why_image_2.png" alt="">
           </div>
           <div class="why-content mx-auto" style="width: 80%;">
             <h2>Rating Pengguna Asli</h2>
@@ -45,7 +45,7 @@ const Home = {
         </div>
         <div class="why-item text-center">
           <div class="why-image">
-            <img src="../../src/public/why_image_3.png" alt="">
+            <img src="why_image_3.png" alt="">
           </div>
           <div class="why-content mx-auto pt-4" style="width: 80%;">
             <h2>Mudah & Praktis</h2>
@@ -54,8 +54,8 @@ const Home = {
         </div>
       </div>
       <div class="container text-center">
-        <a href="">
-          <button class="btn btn-daftar mt-4">Daftar Sekarang</button>
+        <a href="#/daftar">
+          <button class="btn btn-custom mt-4">Daftar Sekarang</button>
         </a>
       </div>
     </div>
