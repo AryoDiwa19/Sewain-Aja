@@ -1,4 +1,7 @@
+/* eslint-disable no-unused-vars */
 /* eslint-disable no-tabs */
+import KonfirmasiOrder from './konfirmasi_order';
+
 const Bayar = {
   async render() {
     return `

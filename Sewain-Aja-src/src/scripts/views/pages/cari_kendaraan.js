@@ -1,4 +1,20 @@
+/* eslint-disable no-unused-vars */
 /* eslint-disable no-tabs */
+
+import CarData from '../../globals/carData';
+import CarDBSource from '../../data/cardb-source';
+import createCariKendaraanTemplate from '../templates/template-creator';
+import data from '../templates/data.json';
+//    fetch('https://private-c9196-aryo.apiary-mock.com/users')
+//      .then((response) => response.json())
+//      .then((response) => {
+//        const cars = response.Search;
+//        let cards = '';
+//        cars.forEach((data) => cards += showCards(data));
+//        const carsContainer = document.querySelector('.item-hasil');
+//        carsContainer.innerHTML = cards;
+//      });
+
 const CariKendaraan = {
   async render() {
     return `
@@ -30,9 +46,9 @@ const CariKendaraan = {
 							</div>
 							<select class="custom-select" id="pilihWilayah">
 								<option selected>Choose...</option>
-								<option value="1">One</option>
-								<option value="2">Two</option>
-								<option value="3">Three</option>
+								<option value="1">Jakarta</option>
+								<option value="2">Bandung</option>
+								<option value="3">Palembang</option>
 							</select>
 						</div>
 
@@ -116,5 +132,19 @@ const CariKendaraan = {
 
   // },
 };
+//    dataCar.data.forEach(car => {
+//        CariKendaraan +=
+
+// );
+//    document.querySelector('.cari_kendaraan').innerHTML = CariKendaraan;
+// },
+
+//  async afterRender() {
+//    const cars = await CarDBSource.cariKendaraanList();
+//    const carContainer = document.querySelector('#cars');
+//    cars.forEach((data) => {
+//      carContainer.innerHTML += createCariKendaraanTemplate(data);
+//    });
+//  },
 
 export default CariKendaraan;

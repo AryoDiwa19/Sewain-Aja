@@ -1,3 +1,4 @@
+/* eslint-disable import/extensions */
 import Home from '../views/pages/home';
 import CariKendaraan from '../views/pages/cari_kendaraan';
 import Laporkan from '../views/pages/laporkan';
