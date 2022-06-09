@@ -71,7 +71,7 @@ const Bayar = {
 				<p>ID Transaksi : <span class="id_transaksi">123456789</span></p>
 				<p class="title-harga-total">Harga Total</p>
 				<p class="harga">Rp 919.442,-</p>
-				<a href="#/cari_kendaraan/#/bayar/#/konfirmasi_order" class="bayar text-center">Bayar</a>
+				<a href="#/bayar/#/konfirmasi_order" class="bayar text-center">Bayar</a>
 			</div>
 		</div>
 	</div>

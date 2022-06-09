@@ -27,7 +27,7 @@ const KonfirmasiOrder = {
 					<label for="bukti_transfer">Upload bukti transfer </label>
 					<input type="file" class="form-control-file" id="bukti_transfer">
 				</div>
-				<button type="submit" class="btn btn-primary" style="width: 100%">Submit</button>
+				<button href="#/konfirmasi_order/#/selesai_transaksi" type="submit" class="btn btn-primary" style="width: 100%">Submit</button>
 			</form>
 		</div>
 	</div>
