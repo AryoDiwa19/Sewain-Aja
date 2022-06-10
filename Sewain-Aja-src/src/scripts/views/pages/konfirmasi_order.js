@@ -3,6 +3,14 @@ const KonfirmasiOrder = {
   async render() {
     return `
 		<div class="container pt-3 pb-5">
+		<ol class="alur-pesan">
+			<li>1. Pilih Kendaraan  >  </li>
+			<li>2. Bayar  >  </li>
+			<li class="onPage">3. Konfirmasi Order  >  </li>
+			<li>4. Selesai</li>
+		</ol>
+		<hr>
+
 		<div class="card konfirmasi mx-auto p-3">
 			<h2>Konfirmasi Pembayaran</h2>
 			<p>Silahkan melakukan konfirmasi pembayaran dengan melengkapi form berikut ini lalu submit .</p>
@@ -27,7 +35,7 @@ const KonfirmasiOrder = {
 					<label for="bukti_transfer">Upload bukti transfer </label>
 					<input type="file" class="form-control-file" id="bukti_transfer">
 				</div>
-				<button href="#/konfirmasi_order/#/selesai_transaksi" type="submit" class="btn btn-primary" style="width: 100%">Submit</button>
+				<button type="submit" class="btn btn-primary btn-konfirmasi"><a href="#/konfirmasi_order/#/selesai_transaksi">Submit</a></button>
 			</form>
 		</div>
 	</div>
