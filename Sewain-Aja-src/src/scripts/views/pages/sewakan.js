@@ -4,10 +4,10 @@ const Sewakan = {
       <h2>sewa Page</h2>
     `;
   },
- 
+
   async afterRender() {
     // Fungsi ini akan dipanggil setelah render()
   },
 };
- 
+
 export default Sewakan;

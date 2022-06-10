@@ -1,5 +1,3 @@
-/* eslint-disable import/no-unresolved */
-/* eslint-disable no-unused-vars */
 import CONFIG from '../../globals/config';
 
 const createCariKendaraanTemplate = (data) => `

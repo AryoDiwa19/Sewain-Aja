@@ -1,4 +1,3 @@
-/* eslint-disable prefer-promise-reject-errors */
 class CarData {
   static cariKendaraanList() {
     return fetch('https://private-c9196-aryo.apiary-mock.com/users')

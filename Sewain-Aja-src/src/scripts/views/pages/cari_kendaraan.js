@@ -1,6 +1,3 @@
-/* eslint-disable no-unused-vars */
-/* eslint-disable no-tabs */
-
 import CarData from '../../globals/carData';
 import CarDBSource from '../../data/cardb-source';
 import createCariKendaraanTemplate from '../templates/template-creator';

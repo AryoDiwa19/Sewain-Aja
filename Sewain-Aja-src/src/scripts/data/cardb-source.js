@@ -1,5 +1,4 @@
 // rename terlebih dahulu file
-/* eslint-disable no-unused-vars */
 import API_ENDPOINT from '../globals/api-endpoint';
 
 class CarDBSource {
