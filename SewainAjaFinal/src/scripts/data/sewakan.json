@@ -1,0 +1,32 @@
+{   
+    "status":"sukses",
+    "message":"data dapat",
+    "sewakan": [
+        {
+            "nama_kendaraan":"Honda SUV",
+            "lokasi": "Jakarta Selatan",
+            "foto_kendaraan": "https://d1n6dbtoa2690v.cloudfront.net/article/5a3a0122150ba00f5683dacb/5a3a0122150ba00f5683dacb_1582259922.jpg",
+            "Biaya": "350,000",
+            "transmisi": "Manual",
+            "penumpang": 4,
+            "barang": 2,
+            "no_wa": "085843982749",
+            "isAC": "Aktif",
+            "id": "1"
+        }
+    ],
+    "Riwayat":[
+        {
+            "nama_penyewa":"Ratna Kafi",
+            "mulai_sewa":"15-juni-2022",
+            "selesai_sewa":"17-juni-2022",
+            "status":"Sedang berlangsung"
+        },
+        {
+            "nama_penyewa":"Randi Septian",
+            "mulai_sewa":"1-juni-2022",
+            "selesai_sewa":"2-juni-2022",
+            "status":"Selesai"
+        }
+    ]
+}
